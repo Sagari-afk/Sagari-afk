@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagari</h1>
 <h3 align="center">A passionate full-stack developer from Ukraine(currently studing in Slovakia))</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagari-afk" alt="sagari-afk" /></a> </p>
 
 - 🔭 I’m currently working on **RentCarService**
 
