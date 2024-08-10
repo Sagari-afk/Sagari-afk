@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sagari</h1>
 <h3 align="center">A passionate full-stack developer from Ukraine(currently studing in Slovakia))</h3>
 
+<div align="center">
+<p> 🔭 I’m currently working on <strong>RentCarService</strong></p>
 
-- 🔭 I’m currently working on **RentCarService**
+<p> 🌱 I’m currently learning <strong>Vue.js and React.js</strong></p>
 
-- 🌱 I’m currently learning **Vue.js and React.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sagari-afk](https://github.com/Sagari-afk)
-
-- 📫 How to reach me **alisavasylieva83@gmail.com**
-
-- ⚡ Fun fact **I really like cats**
+<p> ⚡ Fun fact - <strong>I really like cats</strong></p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
