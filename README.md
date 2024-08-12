@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagari</h1>
-<h3 align="center">A passionate full-stack developer from Ukraine(currently studing in Slovakia))</h3>
+<h3 align="center">A passionate full-stack developer from Ukraine (currently studing in Slovakia)</h3>
 
 <div align="center">
 <p> 🔭 I’m currently working on <strong>RentCarService</strong></p>
