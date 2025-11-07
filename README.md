@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Ukraine (currently studing in Slovakia)</h3>
 
 <div align="center">
-<p> 🔭 I’m currently working on <strong>Uniza courses</strong></p>
+<p> 🔭 I’m currently working on <strong>My portfolio web</strong></p>
 
 <p> 🌱 I’m currently learning <strong>Vue.js and React.js</strong></p>
 
